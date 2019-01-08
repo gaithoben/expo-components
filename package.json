@@ -1,0 +1,62 @@
+{
+  "name": "cloudhub-expo-components",
+  "version": "0.0.0-development",
+  "description": "Various components for use with react-native projects (expo)",
+  "main": "lib/index.js",
+  "module": "lib/index.js",
+  "files": [
+    "lib",
+    "README.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gaithoben/cloudhub-expo-components.git"
+  },
+  "keywords": [
+    "cloudhub",
+    "react-native"
+  ],
+  "author": "Bernard Gaitho <gaithoben@gmail.com> (http://github.com/gaithoben)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gaithoben/cloudhub-expo-components/issues"
+  },
+  "homepage": "https://github.com/gaithoben/cloudhub-expo-components#readme",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "eject": "expo eject",
+    "test": "node ./node_modules/jest/bin/jest.js",
+    "semantic-release": "semantic-release"
+  },
+  "jest": {
+    "preset": "jest-expo"
+  },
+  "dependencies": {
+    "@expo/samples": "2.1.1",
+    "expo": "^32.0.0",
+    "react": "16.5.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
+    "react-navigation": "^3.0.9"
+  },
+  "devDependencies": {
+    "babel-preset-expo": "^5.0.0",
+    "jest-expo": "^32.0.0",
+    "semantic-release": "^15.13.2"
+  },
+  "peerDependencies": {
+    "axios": "^0.17.1",
+    "@expo/samples": "2.1.1",
+    "expo": "^32.0.0",
+    "react": "16.5.0",
+    "react-native": "^https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
+    "react-navigation": "^3.0.9"
+  },
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
+    }
+  },
+  "private": true
+}
