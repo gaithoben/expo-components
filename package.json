@@ -37,22 +37,24 @@
   "dependencies": {
     "@expo/samples": "2.1.1",
     "expo": "^32.0.0",
+    "native-base": "^2.10.0",
     "react": "16.5.0",
-    "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
     "react-navigation": "^3.0.9"
   },
   "devDependencies": {
     "babel-preset-expo": "^5.0.0",
     "jest-expo": "^32.0.0",
-    "semantic-release": "^15.13.2"
+    "semantic-release": "^15.13.2",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-31.0.0.tar.gz"
   },
   "peerDependencies": {
     "axios": "^0.17.1",
-    "@expo/samples": "2.1.1",
+    "@expo/samples": "^2.1.1",
     "expo": "^32.0.0",
-    "react": "16.5.0",
-    "react-native": "^https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
-    "react-navigation": "^3.0.9"
+    "react": "^16.5.0",
+    "react-navigation": "^3.0.9",
+    "react-native": "^0.54.0",
+    "native-base": "^2.10.0"
   },
   "config": {
     "commitizen": {
