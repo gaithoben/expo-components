@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/gaithoben/cloudhub-expo-components#readme",
   "scripts": {
+    "commit": "git-cz",
     "start": "expo start",
     "android": "expo start --android",
     "ios": "expo start --ios",
