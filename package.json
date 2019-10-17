@@ -1,5 +1,5 @@
 {
-  "name": "cloudhub-expo-components",
+  "name": "expo-components",
   "version": "0.0.0-development",
   "description": "Various components for use with react-native projects (expo)",
   "main": "lib/index.js",
@@ -10,7 +10,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/gaithoben/cloudhub-expo-components.git"
+    "url": "https://github.com/gaithoben/expo-components.git"
   },
   "keywords": [
     "cloudhub",
@@ -19,9 +19,9 @@
   "author": "Bernard Gaitho <gaithoben@gmail.com> (http://github.com/gaithoben)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gaithoben/cloudhub-expo-components/issues"
+    "url": "https://github.com/gaithoben/expo-components/issues"
   },
-  "homepage": "https://github.com/gaithoben/cloudhub-expo-components#readme",
+  "homepage": "https://github.com/gaithoben/expo-components#readme",
   "scripts": {
     "commit": "git-cz",
     "start": "expo start",
