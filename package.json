@@ -56,6 +56,7 @@
     "react-native-animation-hooks": "^1.0.1",
     "react-native-gesture-handler": "~1.2.1",
     "react-native-is-iphonex": "^1.0.1",
+    "react-native-material-menu": "^1.0.0",
     "react-native-modal": "^11.4.0",
     "react-native-modal-datetime-picker": "^7.5.0",
     "react-native-modal-dropdown": "^0.6.2",
