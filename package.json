@@ -10,18 +10,18 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/gaithoben/expo-components.git"
+    "url": "https://github.com/cloudhubke/expo-components.git"
   },
   "keywords": [
-    "cloudhub",
+    "cloudhubke",
     "react-native"
   ],
-  "author": "Bernard Gaitho <gaithoben@gmail.com> (http://github.com/gaithoben)",
+  "author": "Bernard Gaitho <gaithoben@gmail.com> (http://github.com/cloudhubke)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gaithoben/expo-components/issues"
+    "url": "https://github.com/cloudhubke/expo-components/issues"
   },
-  "homepage": "https://github.com/gaithoben/expo-components#readme",
+  "homepage": "https://github.com/cloudhubke/expo-components#readme",
   "scripts": {
     "commit": "git-cz",
     "start": "expo start",
@@ -71,7 +71,7 @@
     "expo": "^33.0.0",
     "jest-expo": "^33.0.0",
     "react": "16.8.3",
-    "semantic-release": "^15.13.2"
+    "semantic-release": "^15.13.30"
   },
   "peerDependencies": {
     "@expo/samples": "^2.1.1",
