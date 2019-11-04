@@ -1,3 +1,3 @@
 #expo-components
 
-Various components to use in a react-native project
+Various components to use in a react-native project and especially expo
