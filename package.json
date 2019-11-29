@@ -45,7 +45,7 @@
     "expo-image-manipulator": "~5.0.1",
     "expo-media-library": "~5.0.1",
     "lodash": "^4.17.11",
-    "material-bread": "^0.2.3",
+    "material-bread": "^0.2.4",
     "material-ui-colors": "^1.0.0",
     "moment": "^2.24.0",
     "native-base": "^2.12.1",
