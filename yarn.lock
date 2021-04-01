@@ -5031,9 +5031,9 @@ markerwithlabel@^2.0.1:
   version "2.0.2"
   resolved "https://registry.yarnpkg.com/markerwithlabel/-/markerwithlabel-2.0.2.tgz#fa6aee4abb0ee553e24e2b708226858f58b8729e"
 
-material-bread@^0.2.3:
-  version "0.2.3"
-  resolved "https://registry.yarnpkg.com/material-bread/-/material-bread-0.2.3.tgz#e3fc9abfd4a345413c19685b55851d389c789753"
+material-bread@^0.2.4:
+  version "0.2.10"
+  resolved "https://registry.yarnpkg.com/material-bread/-/material-bread-0.2.10.tgz#e3fc30807020aedb67825303a9e6347cf4de3827"
   dependencies:
     "@babel/runtime" "^7.5.5"
     color "^3.1.0"
@@ -8132,8 +8132,8 @@ xtend@~4.0.1:
   resolved "https://registry.yarnpkg.com/xtend/-/xtend-4.0.1.tgz#a5c6d532be656e23db820efb943a1f04998d63af"
 
 y18n@^3.2.1:
-  version "3.2.1"
-  resolved "https://registry.yarnpkg.com/y18n/-/y18n-3.2.1.tgz#6d15fba884c08679c0d77e88e7759e811e07fa41"
+  version "3.2.2"
+  resolved "https://registry.yarnpkg.com/y18n/-/y18n-3.2.2.tgz#85c901bd6470ce71fc4bb723ad209b70f7f28696"
 
 y18n@^4.0.0:
   version "4.0.0"
