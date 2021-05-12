@@ -5031,9 +5031,9 @@ markerwithlabel@^2.0.1:
   version "2.0.2"
   resolved "https://registry.yarnpkg.com/markerwithlabel/-/markerwithlabel-2.0.2.tgz#fa6aee4abb0ee553e24e2b708226858f58b8729e"
 
-material-bread@^0.2.3:
-  version "0.2.3"
-  resolved "https://registry.yarnpkg.com/material-bread/-/material-bread-0.2.3.tgz#e3fc9abfd4a345413c19685b55851d389c789753"
+material-bread@^0.2.4:
+  version "0.2.10"
+  resolved "https://registry.yarnpkg.com/material-bread/-/material-bread-0.2.10.tgz#e3fc30807020aedb67825303a9e6347cf4de3827"
   dependencies:
     "@babel/runtime" "^7.5.5"
     color "^3.1.0"
@@ -5622,8 +5622,8 @@ npm-run-path@^4.0.0:
     path-key "^3.0.0"
 
 npm-user-validate@~1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/npm-user-validate/-/npm-user-validate-1.0.0.tgz#8ceca0f5cea04d4e93519ef72d0557a75122e951"
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/npm-user-validate/-/npm-user-validate-1.0.1.tgz#31428fc5475fe8416023f178c0ab47935ad8c561"
 
 npm@^6.10.3:
   version "6.12.0"
