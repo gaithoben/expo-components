@@ -3477,8 +3477,8 @@ git-log-parser@^1.2.0:
     traverse "~0.6.6"
 
 glob-parent@^5.1.0:
-  version "5.1.0"
-  resolved "https://registry.yarnpkg.com/glob-parent/-/glob-parent-5.1.0.tgz#5f4c1d1e748d30cd73ad2944b3577a81b081e8c2"
+  version "5.1.2"
+  resolved "https://registry.yarnpkg.com/glob-parent/-/glob-parent-5.1.2.tgz#869832c58034fe68a4093c17dc15e8340d8401c4"
   dependencies:
     is-glob "^4.0.1"
 
@@ -5031,9 +5031,9 @@ markerwithlabel@^2.0.1:
   version "2.0.2"
   resolved "https://registry.yarnpkg.com/markerwithlabel/-/markerwithlabel-2.0.2.tgz#fa6aee4abb0ee553e24e2b708226858f58b8729e"
 
-material-bread@^0.2.3:
-  version "0.2.3"
-  resolved "https://registry.yarnpkg.com/material-bread/-/material-bread-0.2.3.tgz#e3fc9abfd4a345413c19685b55851d389c789753"
+material-bread@^0.2.4:
+  version "0.2.10"
+  resolved "https://registry.yarnpkg.com/material-bread/-/material-bread-0.2.10.tgz#e3fc30807020aedb67825303a9e6347cf4de3827"
   dependencies:
     "@babel/runtime" "^7.5.5"
     color "^3.1.0"
