@@ -5031,9 +5031,9 @@ markerwithlabel@^2.0.1:
   version "2.0.2"
   resolved "https://registry.yarnpkg.com/markerwithlabel/-/markerwithlabel-2.0.2.tgz#fa6aee4abb0ee553e24e2b708226858f58b8729e"
 
-material-bread@^0.2.3:
-  version "0.2.3"
-  resolved "https://registry.yarnpkg.com/material-bread/-/material-bread-0.2.3.tgz#e3fc9abfd4a345413c19685b55851d389c789753"
+material-bread@^0.2.4:
+  version "0.2.10"
+  resolved "https://registry.yarnpkg.com/material-bread/-/material-bread-0.2.10.tgz#e3fc30807020aedb67825303a9e6347cf4de3827"
   dependencies:
     "@babel/runtime" "^7.5.5"
     color "^3.1.0"
@@ -5283,8 +5283,8 @@ modify-values@^1.0.0:
   resolved "https://registry.yarnpkg.com/modify-values/-/modify-values-1.0.1.tgz#b3939fa605546474e3e3e3c63d64bd43b4ee6022"
 
 moment@^2.24.0:
-  version "2.24.0"
-  resolved "https://registry.yarnpkg.com/moment/-/moment-2.24.0.tgz#0d055d53f5052aa653c9f6eb68bb5d12bf5c2b5b"
+  version "2.29.4"
+  resolved "https://registry.yarnpkg.com/moment/-/moment-2.29.4.tgz#3dbe052889fe7c1b2ed966fcb3a77328964ef108"
 
 move-concurrently@^1.0.1:
   version "1.0.1"
