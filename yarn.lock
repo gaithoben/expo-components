@@ -5031,9 +5031,9 @@ markerwithlabel@^2.0.1:
   version "2.0.2"
   resolved "https://registry.yarnpkg.com/markerwithlabel/-/markerwithlabel-2.0.2.tgz#fa6aee4abb0ee553e24e2b708226858f58b8729e"
 
-material-bread@^0.2.3:
-  version "0.2.3"
-  resolved "https://registry.yarnpkg.com/material-bread/-/material-bread-0.2.3.tgz#e3fc9abfd4a345413c19685b55851d389c789753"
+material-bread@^0.2.4:
+  version "0.2.10"
+  resolved "https://registry.yarnpkg.com/material-bread/-/material-bread-0.2.10.tgz#e3fc30807020aedb67825303a9e6347cf4de3827"
   dependencies:
     "@babel/runtime" "^7.5.5"
     color "^3.1.0"
@@ -7747,8 +7747,8 @@ typedarray@^0.0.6:
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
 
 ua-parser-js@^0.7.18, ua-parser-js@^0.7.19:
-  version "0.7.19"
-  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.19.tgz#94151be4c0a7fb1d001af7022fdaca4642659e4b"
+  version "0.7.33"
+  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.33.tgz#1d04acb4ccef9293df6f70f2c3d22f3030d8b532"
 
 uglify-js@^3.1.4:
   version "3.4.9"
